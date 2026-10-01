@@ -1,0 +1,6 @@
+{
+  "version": 9,
+  "dbName": "reele_v9.db",
+  "url": "https://raw.githubusercontent.com/dom-bems/reele-database-cdn/main/reele_v9.db",
+  "releaseNotes": "Initial database launch."
+}
