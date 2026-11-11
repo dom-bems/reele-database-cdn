@@ -1,6 +1,6 @@
 {
-  "version": 11,
-  "fileName": "reele_v11.db",
-  "fileUrl": "https://raw.githubusercontent.com/dom-bems/reele-database-cdn/main/reele_v11.db",
+  "version": 10,
+  "fileName": "reele_v10.db",
+  "fileUrl": "https://raw.githubusercontent.com/dom-bems/reele-database-cdn/main/reele_v10.db",
   "releaseNotes": "Testing the OTA pipeline!"
 }
